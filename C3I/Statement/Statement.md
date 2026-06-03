@@ -3,6 +3,11 @@
 ## **_Task:_** 
 - To develop a machine learning model that can read specimen labels from history collection , and then proceed to extract two key pieces of information ```The WHEN``` and  ```the WHERE``` about a given specimen. ```SCAT``` in the title essentially stands for ```Specimen Collected Automated Transcription.``` 
 
+## **_References_** : 
+Yonatan Geifman and Ran El-Yaniv. 2017. Selective classification for deep neural networks. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 4885–4894.
+
+
+
 ## **_Problem Statement in brief!_** : 
 Natural museums , where one would find such specimens , each of the specimens , has a label attached with them , either a tiny slip or paper work or embeddings beside it by whomever collected it . 
 
